@@ -1,0 +1,31 @@
+%YAML:1.0
+LeftTopX: 0
+LeftTopY: 19
+RightTopX: 7712
+RightTopY: 9
+LeftBottomX: 6
+LeftBottomY: 5363
+RightBottomX: 7719
+RightBottomY: 5353
+LensNumX: 541
+LensNumY: 433
+ImageScale: 2
+UsePixels: 32
+TransX: 0
+TransY: 200
+
+FocalLength: 0.009993029999999998
+LensDistance: 0.009993029999999998
+MLAFocalLength: 0.000036
+PixelSizeX: 0.0000014
+PixelSizeY: 0.0000014
+WhiteBalanceR: 1.0
+WhiteBalanceG: 0.7
+WhiteBalanceB: 0.8
+IntensityScale: 0.25
+RefractiveIndex: 1.33
+nx: 0.00854765
+ny: 0.500404
+%nx: 0
+%ny: 0
+DepthToHousing: 0.0592053

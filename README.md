@@ -1,8 +1,8 @@
 # Plenoptic-Refraction-Free-Image-Synthesis
 
 ## Directory Structure
-- MakeSubapertureImage
-- MakeSubapertureImageF01
+- MakeSubapertureImage: Make subaperture image for comparison
+- MakeSubapertureImageF01: For first generation of Lytro
 - ProcessWhiteImages: Process white image to find MLA coordinates
 - RemoveRefraction: Main code to remove refraction
 - RemoveRefractionInverse: Useless code, as far as I remember
